@@ -4,9 +4,12 @@ The Doctors' Profiles Dataset Analysis project focuses on examining a dataset co
 This analysis not only provides valuable information about healthcare professionals in Pakistan but also serves as a portfolio project to demonstrate proficiency in database management, SQL queries, and data analysis techniques.
 
 Tool
+
 •	MySQL
 
+
 Data Source
+
 The data is collected from a leading Pakistani healthcare consultation platform Marham.pk
 
 Objectives
