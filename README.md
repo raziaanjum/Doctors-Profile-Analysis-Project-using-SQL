@@ -1,18 +1,18 @@
--------Doctors Profile Analysis Project using SQL-----------
+# -------Doctors Profile Analysis Project using SQL-----------
 
 The Doctors' Profiles Dataset Analysis project focuses on examining a dataset containing profiles of doctors across various cities in Pakistan. The dataset includes information such as doctor names, specializations, qualifications, years of experience, and city of practice. Using MySQL, the project aims to explore patterns, trends, and insights that can help in understanding the distribution of doctors, their expertise, and experience levels across different regions.
 This analysis not only provides valuable information about healthcare professionals in Pakistan but also serves as a portfolio project to demonstrate proficiency in database management, SQL queries, and data analysis techniques.
 
-Tool
+# Tool
 
 •	MySQL
 
 
-Data Source
+# Data Source
 
 The data is collected from a leading Pakistani healthcare consultation platform Marham.pk
 
-Objectives
+# Objectives
 1.	Distribution and Insights:
 o	Analyze the geographic distribution of doctors to identify which cities have the highest and lowest concentrations of healthcare professionals.
 o	Identify the most common specializations among doctors and the distribution of qualifications.
