@@ -14,12 +14,18 @@ The data is collected from a leading Pakistani healthcare consultation platform 
 
 # Objectives
 1.	Distribution and Insights:
+   
 o	Analyze the geographic distribution of doctors to identify which cities have the highest and lowest concentrations of healthcare professionals.
+
 o	Identify the most common specializations among doctors and the distribution of qualifications.
 
 2.	Analysis Outcome:
+   
 o	Evaluate the years of experience of doctors, determining highest experience levels.
+
 o	Find out which specializations and cities have the most experienced doctors.
+
 o	Identify top professionals based on their years of experience.
-o	Generate summary of key insights from the dataset, such as the distribution of doctors by city, specialization, highest fees and satisfaction rate
+
+Generate summary of key insights from the dataset, such as the distribution of doctors by city, specialization, highest fees and satisfaction rate
 
